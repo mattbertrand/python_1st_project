@@ -1,7 +1,6 @@
-from tkinter import Y
+x = float(input("What's x? "))
+y = float(input("What's z? "))
 
+z = round(x + y)
 
-x = int(input("What's x? "))
-y = int(input("What's z? "))
-
-print(x + y)
+print(z)
